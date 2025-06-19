@@ -16,7 +16,7 @@ Hey 👋! I'm Guilherme Rodrigues, a software developer with a keen interest in 
 ## Contact
 Feel free to reach out to me via:
 - **LinkedIn:** [guibuenorodrigues](https://www.linkedin.com/in/guibuenorodrigues/)
-- **Instagram:** [guibuenorodrigues](https://www.instagram.com/guibr.dev/)
+- **Instagram:** [guibr.dev](https://www.instagram.com/guibr.dev/)
 - **GitHub:** [guibuenorodrigues](https://github.com/guibuenorodrigues/)
 
 ---
